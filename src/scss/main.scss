@@ -1,0 +1,24 @@
+/*
+  Theme Name: Toko Boilerplate
+  Theme URI: http://goldwyn.co
+  Author: Toko Agency
+  Author URI: http://example.com/
+  Description: Boilerplate for Toko Agency
+  Version: 1.0.0
+  License:
+  License URI:
+  Text Domain: gulp-wordpress
+*/
+
+@charset "utf-8";
+
+// Core variables and mixins
+@import "variables";
+@import "bootstrap";
+@import "animate";
+@import "fonts";
+
+// Normalize
+@import "normalize";
+
+// Core CSS

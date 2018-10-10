@@ -1,0 +1,16 @@
+$directory-font:  "../../src/fonts" !default;
+$directory-image: "../../src/img" !default;
+
+$light:         #ffffff !default;
+$light-100:     rgba(255, 255, 255, 0.3);
+$light-10:     rgba(255, 255, 255, 0.1);
+$dark:          #000000 !default;
+
+$line-height: 1.5 !default;
+$line-height-sm: 1.5 !default;
+$line-height-lg: 1.3 !default;
+
+$transition-main: cubic-bezier(.78,.15,.99,.36) .3s;
+
+$main-font: 'sg-regular', Georgia, Times, serif;
+$secondary-font: 'sg-sans', Helvetica, Arial, sans-serif;
